@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Course.CinemaPoster" Collapsed="true">
+    <Position X="3.5" Y="6.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAABAAAAAAMAAAAEAAAEAAAAA=</HashCode>
+      <FileName>CinemaPoster.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Course.ClassicPoster" Collapsed="true">
+    <Position X="3.5" Y="3.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAEAAAAAAAAAAAAAIAAAAAAIAAAACAA=</HashCode>
+      <FileName>ClassicPoster.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Course.ConcertPoster" Collapsed="true">
+    <Position X="6" Y="4" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAEAIAEAACAA=</HashCode>
+      <FileName>ConcertPoster.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Course.DiscoPoster" Collapsed="true">
+    <Position X="8.5" Y="4" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAAAAAAAAAAAAIAAAAEAAAEAAAAA=</HashCode>
+      <FileName>DiscoPoster.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Course.fMain" Collapsed="true">
+    <Position X="9.75" Y="1" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAgAACAACAAAAACAAAECAAAAIEAAAAAAIIAEAAA=</HashCode>
+      <FileName>fMain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Course.MusicPoster" Collapsed="true">
+    <Position X="7" Y="2.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAAAAAACAAIAAAAAAAAAQAAAA=</HashCode>
+      <FileName>MusicPoster.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Course.Poster" Collapsed="true">
+    <Position X="4.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAgAQAAAAAAAAEAAgAIAAIEAAAgAIAAIAEgAAEAAAAA=</HashCode>
+      <FileName>Poster.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Course.Program" Collapsed="true">
+    <Position X="14.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Course.TheaterPoster" Collapsed="true">
+    <Position X="4.25" Y="5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAACAAAAAAIAAAAEAAAEAAAAA=</HashCode>
+      <FileName>TheaterPoster.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Course.Properties.Resources" Collapsed="true">
+    <Position X="12.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Course.Properties.Settings" Collapsed="true">
+    <Position X="14.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Course.fEditing" Collapsed="true">
+    <Position X="7.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACIAABCABQAABEBugAQSChQhoAABEFgRAAgQCAAA=</HashCode>
+      <FileName>fEditing.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Course.fFind">
+    <Position X="1.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BEoACARaACAgQDCBgAiAAAACAAAAFgAAAEAQKAAgAIA=</HashCode>
+      <FileName>fFind.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Course.fPoster" Collapsed="true">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>9wYAAgQCIOAAAFQEEACFQCsDIJQEACUiQCAkAAgBAQA=</HashCode>
+      <FileName>fPoster.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

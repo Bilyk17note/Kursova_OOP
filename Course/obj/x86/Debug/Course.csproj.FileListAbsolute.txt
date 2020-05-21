@@ -1,0 +1,52 @@
+D:\2020\Подработка\Афиша\Course\Course\obj\x86\Debug\Course.fEditing.resources
+D:\2020\Подработка\Афиша\Course\Course\obj\x86\Debug\Course.fPoster.resources
+D:\2020\Подработка\Афиша\Course\Course\obj\x86\Debug\Course.fMain.resources
+D:\2020\Подработка\Афиша\Course\Course\obj\x86\Debug\Course.Properties.Resources.resources
+D:\2020\Подработка\Афиша\Course\Course\obj\x86\Debug\Course.csproj.GenerateResource.Cache
+D:\2020\Подработка\Афиша\Course\Course\bin\Debug\Course.exe
+D:\2020\Подработка\Афиша\Course\Course\bin\Debug\Course.pdb
+D:\2020\Подработка\Афиша\Course\Course\obj\x86\Debug\Course.exe
+D:\2020\Подработка\Афиша\Course\Course\obj\x86\Debug\Course.pdb
+D:\2020\Подработка\Афиша\Course\Course\obj\x86\Debug\Course.csprojResolveAssemblyReference.cache
+D:\2020\Подработка\Афиша\Course\Course\obj\x86\Debug\Course.fFind.resources
+D:\2020\Подработка\Афиша\Course\Course\obj\x86\Debug\Course.fShowList.resources
+D:\2020\Подработка\Афиша\Course\Course\obj\x86\Debug\Course.fShowPoster.resources
+C:\Users\Alla\Desktop\Course\Course\obj\x86\Debug\Course.exe
+C:\Users\Alla\Desktop\Course\Course\obj\x86\Debug\Course.pdb
+C:\Users\Alla\Desktop\Course\Course\bin\Debug\Course.exe
+C:\Users\Alla\Desktop\Course\Course\bin\Debug\Course.pdb
+C:\Users\Alla\Desktop\Course\Course\obj\x86\Debug\Course.csprojResolveAssemblyReference.cache
+C:\Users\Alla\Desktop\Course\Course\obj\x86\Debug\Course.fEditing.resources
+C:\Users\Alla\Desktop\Course\Course\obj\x86\Debug\Course.fFind.resources
+C:\Users\Alla\Desktop\Course\Course\obj\x86\Debug\Course.fPoster.resources
+C:\Users\Alla\Desktop\Course\Course\obj\x86\Debug\Course.fMain.resources
+C:\Users\Alla\Desktop\Course\Course\obj\x86\Debug\Course.fShowList.resources
+C:\Users\Alla\Desktop\Course\Course\obj\x86\Debug\Course.fShowPoster.resources
+C:\Users\Alla\Desktop\Course\Course\obj\x86\Debug\Course.Properties.Resources.resources
+C:\Users\Alla\Desktop\Course\Course\obj\x86\Debug\Course.csproj.GenerateResource.Cache
+D:\2020\Подработка\Афиша\New\Course\Course\obj\x86\Debug\Course.exe
+D:\2020\Подработка\Афиша\New\Course\Course\obj\x86\Debug\Course.pdb
+D:\2020\Подработка\Афиша\New\Course\Course\obj\x86\Debug\Course.csprojResolveAssemblyReference.cache
+D:\2020\Подработка\Афиша\New\Course\Course\obj\x86\Debug\Course.fEditing.resources
+D:\2020\Подработка\Афиша\New\Course\Course\obj\x86\Debug\Course.fFind.resources
+D:\2020\Подработка\Афиша\New\Course\Course\obj\x86\Debug\Course.fPoster.resources
+D:\2020\Подработка\Афиша\New\Course\Course\obj\x86\Debug\Course.fMain.resources
+D:\2020\Подработка\Афиша\New\Course\Course\obj\x86\Debug\Course.fShowList.resources
+D:\2020\Подработка\Афиша\New\Course\Course\obj\x86\Debug\Course.fShowPoster.resources
+D:\2020\Подработка\Афиша\New\Course\Course\obj\x86\Debug\Course.Properties.Resources.resources
+D:\2020\Подработка\Афиша\New\Course\Course\obj\x86\Debug\Course.csproj.GenerateResource.Cache
+D:\2020\Подработка\Афиша\New\Course\Course\bin\Debug\Course.exe
+D:\2020\Подработка\Афиша\New\Course\Course\bin\Debug\Course.pdb
+D:\UNIVER\2 КУРС\Курсова робота\Program\Course\Course\obj\x86\Debug\Course.exe
+D:\UNIVER\2 КУРС\Курсова робота\Program\Course\Course\obj\x86\Debug\Course.pdb
+D:\UNIVER\2 КУРС\Курсова робота\Program\Course\Course\bin\Debug\Course.exe
+D:\UNIVER\2 КУРС\Курсова робота\Program\Course\Course\bin\Debug\Course.pdb
+D:\UNIVER\2 КУРС\Курсова робота\Program\Course\Course\obj\x86\Debug\Course.csprojResolveAssemblyReference.cache
+D:\UNIVER\2 КУРС\Курсова робота\Program\Course\Course\obj\x86\Debug\Course.fEditing.resources
+D:\UNIVER\2 КУРС\Курсова робота\Program\Course\Course\obj\x86\Debug\Course.fFind.resources
+D:\UNIVER\2 КУРС\Курсова робота\Program\Course\Course\obj\x86\Debug\Course.fPoster.resources
+D:\UNIVER\2 КУРС\Курсова робота\Program\Course\Course\obj\x86\Debug\Course.fMain.resources
+D:\UNIVER\2 КУРС\Курсова робота\Program\Course\Course\obj\x86\Debug\Course.fShowList.resources
+D:\UNIVER\2 КУРС\Курсова робота\Program\Course\Course\obj\x86\Debug\Course.fShowPoster.resources
+D:\UNIVER\2 КУРС\Курсова робота\Program\Course\Course\obj\x86\Debug\Course.Properties.Resources.resources
+D:\UNIVER\2 КУРС\Курсова робота\Program\Course\Course\obj\x86\Debug\Course.csproj.GenerateResource.Cache

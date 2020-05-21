@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{F9A5DFA7-EA8A-4C4E-ACA0-CC70C4490A5E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Course</RootNamespace>
+    <AssemblyName>Course</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CinemaPoster.cs" />
+    <Compile Include="ClassicPoster.cs" />
+    <Compile Include="ConcertPoster.cs" />
+    <Compile Include="DiscoPoster.cs" />
+    <Compile Include="fEditing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fEditing.designer.cs">
+      <DependentUpon>fEditing.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fFind.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fFind.Designer.cs">
+      <DependentUpon>fFind.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fPoster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fPoster.designer.cs">
+      <DependentUpon>fPoster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fShowList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fShowList.Designer.cs">
+      <DependentUpon>fShowList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fShowPoster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fShowPoster.Designer.cs">
+      <DependentUpon>fShowPoster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MusicPoster.cs" />
+    <Compile Include="Poster.cs" />
+    <Compile Include="fMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fMain.Designer.cs">
+      <DependentUpon>fMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TheaterPoster.cs" />
+    <EmbeddedResource Include="fEditing.resx">
+      <DependentUpon>fEditing.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fFind.resx">
+      <DependentUpon>fFind.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fPoster.resx">
+      <DependentUpon>fPoster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fMain.resx">
+      <DependentUpon>fMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fShowList.resx">
+      <DependentUpon>fShowList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fShowPoster.resx">
+      <DependentUpon>fShowPoster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Images\white-brick-wall.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

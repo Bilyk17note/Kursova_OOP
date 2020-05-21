@@ -1,0 +1,43 @@
+D:\UNIVER\2 КУРС\Курсова робота\Program\Course\Course\obj\x86\Debug\Course.exe
+D:\UNIVER\2 КУРС\Курсова робота\Program\Course\Course\obj\x86\Debug\Course.pdb
+D:\UNIVER\2 КУРС\Курсова робота\Program\Course\Course\bin\Debug\Course.exe
+D:\UNIVER\2 КУРС\Курсова робота\Program\Course\Course\bin\Debug\Course.pdb
+D:\UNIVER\2 КУРС\Курсова робота\Program\Course\Course\obj\x86\Debug\Coursework.csprojResolveAssemblyReference.cache
+D:\UNIVER\2 КУРС\Курсова робота\Program\Course\Course\obj\x86\Debug\Course.Properties.Resources.resources
+D:\UNIVER\2 КУРС\Курсова робота\Program\Course\Course\obj\x86\Debug\Coursework.csproj.GenerateResource.Cache
+D:\UNIVER\2 КУРС\Курсова робота\Program\Course\Course\obj\x86\Debug\Course.fEditing.resources
+D:\UNIVER\2 КУРС\Курсова робота\Program\Course\Course\obj\x86\Debug\Course.fFind.resources
+D:\UNIVER\2 КУРС\Курсова робота\Program\Course\Course\obj\x86\Debug\Course.fPoster.resources
+D:\UNIVER\2 КУРС\Курсова робота\Program\Course\Course\obj\x86\Debug\Course.fMain.resources
+D:\UNIVER\2 КУРС\Курсова робота\Program\Course\Course\obj\x86\Debug\Course.fShowList.resources
+D:\UNIVER\2 КУРС\Курсова робота\Program\Course\Course\obj\x86\Debug\Course.fShowPoster.resources
+D:\UNIVER\2 КУРС\Курсова робота\Program\Coursework\Course\obj\x86\Debug\Course.exe
+D:\UNIVER\2 КУРС\Курсова робота\Program\Coursework\Course\obj\x86\Debug\Course.pdb
+D:\UNIVER\2 КУРС\Курсова робота\Program\Coursework\Course\bin\Debug\Course.exe
+D:\UNIVER\2 КУРС\Курсова робота\Program\Coursework\Course\bin\Debug\Course.pdb
+D:\UNIVER\2 КУРС\Курсова робота\Program\Coursework\Course\obj\x86\Debug\Coursework.csprojResolveAssemblyReference.cache
+D:\UNIVER\2 КУРС\Курсова робота\Program\Coursework\Course\obj\x86\Debug\Course.fEditing.resources
+D:\UNIVER\2 КУРС\Курсова робота\Program\Coursework\Course\obj\x86\Debug\Course.fFind.resources
+D:\UNIVER\2 КУРС\Курсова робота\Program\Coursework\Course\obj\x86\Debug\Course.fPoster.resources
+D:\UNIVER\2 КУРС\Курсова робота\Program\Coursework\Course\obj\x86\Debug\Course.fMain.resources
+D:\UNIVER\2 КУРС\Курсова робота\Program\Coursework\Course\obj\x86\Debug\Course.fShowList.resources
+D:\UNIVER\2 КУРС\Курсова робота\Program\Coursework\Course\obj\x86\Debug\Course.fShowPoster.resources
+D:\UNIVER\2 КУРС\Курсова робота\Program\Coursework\Course\obj\x86\Debug\Course.Properties.Resources.resources
+D:\UNIVER\2 КУРС\Курсова робота\Program\Coursework\Course\obj\x86\Debug\Coursework.csproj.GenerateResource.Cache
+D:\UNIVER\2 КУРС\Kursova_robota\Program\Coursework\Course\obj\x86\Debug\Course.exe
+D:\UNIVER\2 КУРС\Kursova_robota\Program\Coursework\Course\obj\x86\Debug\Course.pdb
+D:\UNIVER\2 KURS\Kursova_robota\Program\Coursework\Course\obj\x86\Debug\Course.exe
+D:\UNIVER\2 KURS\Kursova_robota\Program\Coursework\Course\obj\x86\Debug\Course.pdb
+D:\UNIVER\2 KURS\Kursova_robota\Program\Coursework\Course\pictures\Course.exe
+D:\UNIVER\2 KURS\Kursova_robota\Program\Coursework\Course\pictures\Course.pdb
+D:\UNIVER\2 KURS\Kursova_robota\Program\Coursework\Course\obj\x86\Debug\Coursework.csprojResolveAssemblyReference.cache
+D:\UNIVER\2 KURS\Kursova_robota\Program\Coursework\Course\obj\x86\Debug\Course.fEditing.resources
+D:\UNIVER\2 KURS\Kursova_robota\Program\Coursework\Course\obj\x86\Debug\Course.fFind.resources
+D:\UNIVER\2 KURS\Kursova_robota\Program\Coursework\Course\obj\x86\Debug\Course.fPoster.resources
+D:\UNIVER\2 KURS\Kursova_robota\Program\Coursework\Course\obj\x86\Debug\Course.fMain.resources
+D:\UNIVER\2 KURS\Kursova_robota\Program\Coursework\Course\obj\x86\Debug\Course.fShowList.resources
+D:\UNIVER\2 KURS\Kursova_robota\Program\Coursework\Course\obj\x86\Debug\Course.fShowPoster.resources
+D:\UNIVER\2 KURS\Kursova_robota\Program\Coursework\Course\obj\x86\Debug\Course.Properties.Resources.resources
+D:\UNIVER\2 KURS\Kursova_robota\Program\Coursework\Course\obj\x86\Debug\Coursework.csproj.GenerateResource.Cache
+D:\UNIVER\2 KURS\Kursova_robota\Program\Coursework\Course\bin\Debug\Course.exe
+D:\UNIVER\2 KURS\Kursova_robota\Program\Coursework\Course\bin\Debug\Course.pdb
